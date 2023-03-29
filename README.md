@@ -4,6 +4,8 @@ The basic idea of analyzing this Zomato dataset is to get a fair idea about the 
 
 Input Data: https://drive.google.com/file/d/1OIgafvvR6VzpfeX0rD4v9cS9rSvy2pjl/view?usp=sharing
 
+Colab: https://colab.research.google.com/drive/1zyBZfJMFqSK2-hTQBOm-ZfgiOzx5mNd1?usp=sharing
+
 Libraries used: NumPy, Pandas, Matplotlib, and Seaborn.
 
 
